@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<doc>
+	<sec id="appendix">
+
+		<sec id="A">
+			<p>
+				<disp-formula id="A1">
+					<alternatives>
+						<tex-math>mA1</tex-math>
+					</alternatives>
+				</disp-formula>
+			</p>
+			<disp-formula id="A2">
+				<alternatives>
+					<tex-math>mA2</tex-math>
+				</alternatives>
+			</disp-formula>
+			<p>
+				<disp-formula id="A3">
+					<alternatives>
+						<tex-math>mA3</tex-math>
+					</alternatives>
+				</disp-formula>
+			</p>
+		</sec>
+
+		<sec id="B">
+			<disp-formula id="B1">
+				<alternatives>
+					<tex-math>mB1</tex-math>
+				</alternatives>
+			</disp-formula>
+			<p>
+				<disp-formula id="B2">
+					<alternatives>
+						<tex-math>mB2</tex-math>
+					</alternatives>
+				</disp-formula>
+			</p>
+			<disp-formula id="B3">
+				<alternatives>
+					<tex-math>mB3</tex-math>
+				</alternatives>
+			</disp-formula>
+		</sec>
+
+		<sec id="C">
+			<disp-formula id="C1">
+				<alternatives>
+					<tex-math>mC1</tex-math>
+				</alternatives>
+			</disp-formula>
+			<disp-formula id="C2">
+				<alternatives>
+					<tex-math>mC2</tex-math>
+				</alternatives>
+			</disp-formula>
+		</sec>
+
+	</sec>
+</doc>
